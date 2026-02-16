@@ -10,6 +10,10 @@ An AI-powered automation system that generates personalized learning roadmaps an
 * Saves roadmap in Google Docs
 * Schedules study plan in Google Calendar
 * Fully automated using n8n AI Agent
+* Real-world Use Case
+      - Students preparing for GATE/placements
+      - Auto roadmap for any skill (DSA, Web Dev, AI)
+      - Productivity automation
 
 ## 🏗️ Architecture
 
