@@ -28,13 +28,13 @@ User Chat → n8n AI Agent → Gemini API
 
 ## 📸 Workflow Screenshot
 
-![Workflow](screenshots/workflow.png)
+Added below , make a look.
 
 ## 🔧 Setup Instructions
 
 ### 1. Clone repo
 
-git clone https://github.com/yourusername/ai-learning-path-generator
+git clone https://github.com/Vinay-2007/AI-Learning-Path-Generator
 
 ### 2. Import workflow into n8n
 
